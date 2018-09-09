@@ -15,7 +15,7 @@ public class Relational_003
         System.out.println("|less than operator \" a<b \"              :" + (a<b) + "          |");
         System.out.println("|greater than equalto  operator \" a >=b \" :" + (a>=b) + "          |");
         System.out.println("|less then equalto operator \" a<=b \"     :" + (a<=b) + "          !"); 
-        System.out.println("_________________________________________________");
+        System.out.println("_______________Thank you ..!__________________");
         }
 }
 
